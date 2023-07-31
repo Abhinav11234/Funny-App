@@ -17,7 +17,7 @@ os.environ['STABILITY_HOST'] = 'grpc.stability.ai:443'
 # Paste your API Key below.
 
 
-def imagine(prompt, sk-7sKFZXdQB77hfXrGfniYCzCjXmJbI87qMYQcCepvhF31ZLAW):
+def imagine(prompt, stable_diffusion_api_key):
 
     try:
         output_path = ""
