@@ -1,7 +1,7 @@
 import ai21
 
 def generate(prompt, ai21_api_key):
-    ai21.api_key = 6bWzE55aPZJCYm6bUXi6A2B8hWb84DuI
+    ai21.api_key = "6bWzE55aPZJCYm6bUXi6A2B8hWb84DuI"
 
     _prompt = """
     Write a tweet to promote an event for Shmolt, a food and more delivery company.
