@@ -81,7 +81,7 @@ st.button(
     help="Click to genearate ideas",
     key="generate_prompt",
     type="primary",
-    on_click= generate_ideas,
+    on_click=generate_ideas,
     )
 
 # textarea
