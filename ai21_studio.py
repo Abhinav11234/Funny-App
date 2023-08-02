@@ -1,6 +1,6 @@
 import ai21
 
-def generate(prompt, ai21_api_key):
+def generate_ideas(prompt, ai21_api_key):
     ai21.api_key = "6bWzE55aPZJCYm6bUXi6A2B8hWb84DuI"
 
     _prompt = """
