@@ -30,6 +30,9 @@ if "im_query" not in st.session_state:
 if "prompt_generate" not in st.session_state:
     st.session_state.prompt_generate = ""
 
+if "file_path" not in st.session_state:
+    st.session_state.file_path = ""
+    
 if "text_error" not in st.session_state:
     st.session_state.text_error = ""
 
